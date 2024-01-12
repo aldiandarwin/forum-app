@@ -4,6 +4,8 @@
 
 Welcome to the Laravel Forum Music App, a community-driven platform for sharing and discussing your favorite music. This application allows users to create threads, explore different music categories, search for specific topics, share music, and manage their activities through personalized dashboards.
 
+![mockup-0](https://github.com/aldiandarwin/forum-app/assets/70283015/ca0a4718-149e-4651-9237-dd5cb1bb1e69)
+
 ## Features
 
 ### 1. Thread Sharing
@@ -30,6 +32,8 @@ Welcome to the Laravel Forum Music App, a community-driven platform for sharing 
 
 -   Personalized dashboards for managing forum activities.
 -   Track threads, replies, and engagements seamlessly.
+
+![forum](https://github.com/aldiandarwin/forum-app/assets/70283015/fd201cfc-ba8e-4789-b072-d3988c313bb5)
 
 ## Installation
 
